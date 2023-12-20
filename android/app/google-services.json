@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "804094019299",
+    "project_id": "fir-auth-lesson-bbc53",
+    "storage_bucket": "fir-auth-lesson-bbc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804094019299:android:0e2ccf86e4c8998f2527d6",
+        "android_client_info": {
+          "package_name": "com.example.lesson41_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804094019299-4nmmigfcdq6nifcercodshnm812an8lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhQipvpp69MJ43btZL3wSIeRzxGIC4M34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804094019299-4nmmigfcdq6nifcercodshnm812an8lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804094019299-hajte7kfv6b3pmjmj3nbq1of49leq0rb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lesson41AuthFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
